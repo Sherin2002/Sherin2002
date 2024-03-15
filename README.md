@@ -1,3 +1,4 @@
+![logo](https://github.com/Sherin2002/Sherin2002/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sherin De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
